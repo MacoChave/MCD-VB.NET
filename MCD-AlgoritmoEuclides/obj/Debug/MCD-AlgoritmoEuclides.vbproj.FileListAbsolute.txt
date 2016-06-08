@@ -1,0 +1,10 @@
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\bin\Debug\MCD-AlgoritmoEuclides.exe.config
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\bin\Debug\MCD-AlgoritmoEuclides.exe
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\bin\Debug\MCD-AlgoritmoEuclides.pdb
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\bin\Debug\MCD-AlgoritmoEuclides.xml
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\obj\Debug\MCD_AlgoritmoEuclides.Form1.resources
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\obj\Debug\MCD_AlgoritmoEuclides.Resources.resources
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\obj\Debug\MCD-AlgoritmoEuclides.vbproj.GenerateResource.Cache
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\obj\Debug\MCD-AlgoritmoEuclides.exe
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\obj\Debug\MCD-AlgoritmoEuclides.xml
+c:\users\u\Visual Studio 2013\MCD-AlgoritmoEuclides\MCD-AlgoritmoEuclides\obj\Debug\MCD-AlgoritmoEuclides.pdb
